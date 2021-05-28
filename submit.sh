@@ -1,0 +1,1 @@
+spark-submit --master local --py-files dist/myLib-0.0.1-py3.5.egg main.py
